@@ -1,5 +1,9 @@
 # Vanguard-Optima: Sub-Saharan Micro-Grid Telemetry Optimization Engine
 
+## 🔗 Live Production Links
+* **Interactive Web Dashboard:** [Click Here to View Live App](https://microgrid-prediction-api.onrender.com/)
+* **Automated API Documentation:** [Click Here to View Swagger Docs](https://microgrid-prediction-api.onrender.com/docs)
+
 Vanguard-Optima is a production-grade, full-stack machine learning microservice built to manage and optimize decentralized microgrid power infrastructures in sub-Saharan Africa. The system hosts two aligned predictive engines that ingest real-time environmental data to instantly project continuous solar power yield and classify local electrical distribution grid stability states.
 
 The application features a dual-purpose architecture: an automated data ingestion API for machine-to-machine integrations, a unified developer documentation layer, and a beautiful, high-performance web dashboard styled with Tailwind CSS for human operator telemetry monitoring.
